@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Cantata+One&family=Imprima");
+
+:root {
+  --heading-font: "Cantata One";
+  --text-font: "Imprima";
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--heading-font);
+  font-weight: normal;
+}
+
+h5, h6 {
+  font-family: var(--text-font);
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+h2 {
+  font-size: 4rem;
+}
+
+h3 {
+  font-size: 3rem;
+}
+
+h4 {
+  font-size: 2rem;
+}
+
+h5 {
+  font-size: 1.5rem;
+}
+
+h6 {
+  font-size: 1.25rem;
+}
+
+p {
+  font-family: var(--text-font);
+  font-size: 1rem;
+}

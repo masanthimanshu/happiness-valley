@@ -1,0 +1,40 @@
+/* Header */
+
+header {
+  top: 0;
+  position: absolute;
+  width: 100%;
+}
+
+menu h5 {
+  display: inline-block;
+  margin: 0 20px;
+  color: white;
+  font-weight: bold;
+}
+
+menu {
+  width: 80%;
+  text-align: right;
+  display: inline-block;
+}
+
+.logo div {
+  height: 100%;
+}
+
+.logo {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  margin: 0 50px;
+  text-align: center;
+  background-color: white;
+  border-radius: 0 0 50% 50%;
+}
+
+.logo img {
+  width: 75%;
+}
+
+/* Footer */
