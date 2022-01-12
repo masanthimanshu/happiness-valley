@@ -76,16 +76,19 @@ td {
 }
 
 .swiper {
-  width: 90%;
-  height: 100%;
+  width: 80%;
+  padding: 50px;
 }
 
 .swiper-slide {
   text-align: center;
-  background: rgba(0, 0, 0, 0.05);
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  background: white;
   border-radius: 10px;
+  padding: 0 25px;
   box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+.swiper-slide img {
+  width: 15%;
+  border-radius: 50%;
 }

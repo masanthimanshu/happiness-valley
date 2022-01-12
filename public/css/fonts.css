@@ -1,8 +1,12 @@
-@import url("https://fonts.googleapis.com/css2?family=Cantata+One&family=Imprima");
+/* Open Sans Font Below */
+@import url("https://bit.ly/3ffwpQ4");
+
+/* Mollie Glaston Font Below */
+@import url("../fonts/downloadedFonts.css");
 
 :root {
-  --heading-font: "Cantata One";
-  --text-font: "Imprima";
+  --heading-font: "Mollie Glaston";
+  --text-font: "Open Sans";
 }
 
 h1,
@@ -13,17 +17,18 @@ h4 {
   font-weight: normal;
 }
 
-h5, h6 {
+h5,
+h6 {
   font-family: var(--text-font);
   font-weight: normal;
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 7rem;
 }
 
 h2 {
-  font-size: 4rem;
+  font-size: 5rem;
 }
 
 h3 {
@@ -31,7 +36,7 @@ h3 {
 }
 
 h4 {
-  font-size: 2rem;
+  font-size: 1rem;
 }
 
 h5 {
