@@ -8,7 +8,7 @@ header {
 
 menu h5 {
   display: inline-block;
-  margin: 0 20px;
+  margin: 0 10px;
   color: white;
   font-weight: bold;
 }
@@ -37,3 +37,9 @@ menu {
 }
 
 /* Footer */
+
+footer {
+  text-align: center;
+  background-color: rgb(230, 230, 230);
+padding: 25px 0;
+}

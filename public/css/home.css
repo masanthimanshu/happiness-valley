@@ -13,7 +13,8 @@
   background-blend-mode: hard-light;
   height: 125vh;
   color: white;
-  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
   border-radius: 0 0 25% 0;
 }
 
@@ -24,10 +25,6 @@
 }
 
 /* Section Two */
-
-.secTwo {
-  color: teal;
-}
 
 .secTwo hr {
   border: 0;
@@ -40,55 +37,114 @@
   width: 100%;
 }
 
+.secTwo .grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.secTwo .grid-item {
+  margin: 10px;
+  padding: 10px;
+}
+
 .secTwo .left {
   text-align: center;
 }
 
-table {
-  text-align: center;
-}
-
-table img {
-  width: 25%;
-}
-
-td {
-  padding: 30px 15px;
+.course-image {
+  width: 50%;
 }
 
 /* Section Three */
 
 .secThree {
-  color: teal;
   background-color: rgb(230, 230, 230);
   text-align: center;
 }
 
 .secThree hr {
-    border: 0;
-    border-top: 10px dotted rgba(0, 128, 128, 0.25);
-    width: 5%;
-    margin: auto;
-  }
+  border: 0;
+  border-top: 10px dotted rgba(0, 128, 128, 0.25);
+  width: 5%;
+  margin: auto;
+}
 
-.swiper-section {
+.secThree .swiper-section {
   height: 50vh;
 }
 
-.swiper {
+.secThree .swiper {
   width: 80%;
   padding: 50px;
 }
 
-.swiper-slide {
+.secThree .swiper-slide {
   text-align: center;
-  background: white;
+  background-color: white;
   border-radius: 10px;
   padding: 0 25px;
   box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 }
 
-.swiper-slide img {
+.secThree .swiper-slide img {
   width: 15%;
   border-radius: 50%;
+}
+
+/* Section Four */
+
+.secFour hr {
+  border: 0;
+  border-top: 10px dotted rgba(0, 128, 128, 0.25);
+  width: 10%;
+  margin: auto;
+}
+
+/* Section Five */
+
+.secFive {
+  background-color: rgb(230, 230, 230);
+  text-align: center;
+}
+
+.secFive hr {
+  border: 0;
+  border-top: 10px dotted rgba(0, 128, 128, 0.25);
+  width: 5%;
+  margin: auto;
+}
+
+.secFive .grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  width: 90%;
+  margin: auto;
+}
+
+.secFive .grid-item {
+  border: 1px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+.image-div img {
+  width: 100%;
+}
+
+/* Section Six */
+
+.secSix {
+  text-align: center;
+}
+
+.secSix hr {
+  border: 0;
+  border-top: 10px dotted rgba(0, 128, 128, 0.25);
+  width: 15%;
+  margin: auto;
+}
+
+.secSix img {
+  width: 50%;
+  opacity: 0.5;
 }

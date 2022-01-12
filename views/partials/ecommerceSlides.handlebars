@@ -1,0 +1,18 @@
+{{#each products}}
+
+  <div class="grid-item">
+    <div class="image-div">
+      <img src={{this.image}} alt="" />
+    </div>
+    <br />
+    <h6>{{this.name}}</h6>
+    <h5 class="bold">₹ {{this.price}}</h5>
+    <br />
+    <a href={{this.link}}>
+      <button class="primary-button">
+        <p class="bold">View Product</p>
+      </button>
+    </a>
+  </div>
+
+{{/each}}

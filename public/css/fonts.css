@@ -9,22 +9,26 @@
   --text-font: "Open Sans";
 }
 
-h1,
+h1 {
+  font-family: var(--heading-font);
+  font-size: 7rem;
+  font-weight: normal;
+}
+
 h2,
 h3,
-h4 {
+h4,
+h5 {
   font-family: var(--heading-font);
   font-weight: normal;
+  color: teal;
 }
 
 h5,
 h6 {
   font-family: var(--text-font);
   font-weight: normal;
-}
-
-h1 {
-  font-size: 7rem;
+  font-size: 1.25rem;
 }
 
 h2 {
@@ -39,15 +43,18 @@ h4 {
   font-size: 1rem;
 }
 
-h5 {
-  font-size: 1.5rem;
-}
-
-h6 {
-  font-size: 1.25rem;
-}
-
 p {
   font-family: var(--text-font);
   font-size: 1rem;
+}
+
+form textarea, form input {
+  font-family: var(--text-font);
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.form-button {
+  font-family: var(--text-font);
+  font-size: 1.25rem;
 }
