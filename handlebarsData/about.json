@@ -1,4 +1,8 @@
 {
   "title": "About Us",
-  "css": "/css/about.css"
+  "css": "/css/about.css",
+  "hero": {
+      "heading" : "About Us",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam, unde mollitia repudiandae suscipit libero eaque iure dolores reprehenderit minima doloremque sed, aliquam quam qui maiores."
+    }
 }

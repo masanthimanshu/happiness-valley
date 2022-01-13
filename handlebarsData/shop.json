@@ -1,4 +1,8 @@
 {
   "title": "Shop",
-  "css": "/css/shop.css"
+  "css": "/css/shop.css",
+  "hero": {
+      "heading" : "Shop",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam, unde mollitia repudiandae suscipit libero eaque iure dolores reprehenderit minima doloremque sed, aliquam quam qui maiores."
+    }
 }

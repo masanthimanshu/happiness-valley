@@ -41,5 +41,29 @@ menu {
 footer {
   text-align: center;
   background-color: rgb(230, 230, 230);
-padding: 25px 0;
+  padding: 25px 0;
+}
+
+/* Sub Hero */
+
+.subHero {
+  height: 75vh;
+  background-image: url("../images/pageOne1.png");
+  background-position: center;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.6);
+  background-blend-mode: overlay;
+  color: white;
+  border-radius: 0 0 200px 200px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.subHero .inner-div {
+  width: 50%;
+}
+
+.subHero hr {
+  border: 0;
+  border-top: 1px Solid White;
 }
