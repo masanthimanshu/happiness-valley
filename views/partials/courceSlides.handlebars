@@ -1,11 +1,11 @@
 {{#each courses}}
 
   <div class="grid-item">
-    <img class="course-image" src="/images/yoga-position.png" alt="" />
+    <img class="course-image" src={{this.image}} alt="" />
     <br /><br />
-    <p class="bold">Heading Here</p>
+    <p class="bold">{{this.name}}</p>
     <br />
-    <p>Lorem ipsum dolor sit amet consectetur.</p>
+    <p>{{this.content}}</p>
   </div>
 
 {{/each}}

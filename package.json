@@ -13,7 +13,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2",
-    "express-handlebars": "^6.0.2",
-    "swup": "^2.0.14"
+    "express-handlebars": "^6.0.2"
   }
 }
