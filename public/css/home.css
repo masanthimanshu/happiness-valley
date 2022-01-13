@@ -2,15 +2,13 @@
 
 .hero hr {
   border: 0;
-  border-top: 2px solid rgba(255, 255, 255, 0.25);
+  border-top: 2px solid rgba(255, 255, 255, 0.5);
 }
 
 .hero {
-  background-image: url("../images/pageOne1.jpg");
+  background-image: url("../images/pageOne1.png");
   background-position: center;
   background-size: cover;
-  background-color: teal;
-  background-blend-mode: hard-light;
   height: 125vh;
   color: white;
   box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
@@ -40,11 +38,7 @@
 .secTwo .grid-container {
   display: grid;
   grid-template-columns: auto auto auto;
-}
-
-.secTwo .grid-item {
-  margin: 10px;
-  padding: 10px;
+  gap: 1.5rem;
 }
 
 .secTwo .left {
@@ -117,14 +111,14 @@
 .secFive .grid-container {
   display: grid;
   grid-template-columns: auto auto auto auto;
-  width: 90%;
+  width: 80%;
   margin: auto;
+  gap: 1.5rem;
 }
 
 .secFive .grid-item {
   border: 1px solid black;
-  margin: 20px;
-  padding: 20px;
+  padding: 25px;
 }
 
 .image-div img {

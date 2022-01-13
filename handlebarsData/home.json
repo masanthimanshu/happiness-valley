@@ -1,0 +1,208 @@
+{
+  "title": "Happiness Valley",
+  "css": "/css/home.css",
+  "courses": [
+    {
+      "id": 1,
+      "image": "/images/yoga-position.png",
+      "name": "Heading Here",
+      "content": "Lorem ipsum dolor sit amet consectetur."
+    },
+    {
+      "id": 2,
+      "image": "/images/yoga-position.png",
+      "name": "Heading Here",
+      "content": "Lorem ipsum dolor sit amet consectetur."
+    },
+    {
+      "id": 3,
+      "image": "/images/yoga-position.png",
+      "name": "Heading Here",
+      "content": "Lorem ipsum dolor sit amet consectetur."
+    },
+    {
+      "id": 4,
+      "image": "/images/yoga-position.png",
+      "name": "Heading Here",
+      "content": "Lorem ipsum dolor sit amet consectetur."
+    },
+    {
+      "id": 5,
+      "image": "/images/yoga-position.png",
+      "name": "Heading Here",
+      "content": "Lorem ipsum dolor sit amet consectetur."
+    },
+    {
+      "id": 6,
+      "image": "/images/yoga-position.png",
+      "name": "Heading Here",
+      "content": "Lorem ipsum dolor sit amet consectetur."
+    },
+    {
+      "id": 7,
+      "image": "/images/yoga-position.png",
+      "name": "Heading Here",
+      "content": "Lorem ipsum dolor sit amet consectetur."
+    },
+    {
+      "id": 8,
+      "image": "/images/yoga-position.png",
+      "name": "Heading Here",
+      "content": "Lorem ipsum dolor sit amet consectetur."
+    },
+    {
+      "id": 9,
+      "image": "/images/yoga-position.png",
+      "name": "Heading Here",
+      "content": "Lorem ipsum dolor sit amet consectetur."
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "content": "Slide - 1, Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati saepe a et veritatis ullam eligendi, numquam laudantium dolor harum fugiat.",
+      "image": "/images/model.jpg",
+      "name": "Sample Name Here"
+    },
+    {
+      "id": 2,
+      "content": "Slide - 2, Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati saepe a et veritatis ullam eligendi, numquam laudantium dolor harum fugiat.",
+      "image": "/images/model.jpg",
+      "name": "Sample Name Here"
+    },
+    {
+      "id": 3,
+      "content": "Slide - 3, Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati saepe a et veritatis ullam eligendi, numquam laudantium dolor harum fugiat.",
+      "image": "/images/model.jpg",
+      "name": "Sample Name Here"
+    },
+    {
+      "id": 4,
+      "content": "Slide - 4, Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati saepe a et veritatis ullam eligendi, numquam laudantium dolor harum fugiat.",
+      "image": "/images/model.jpg",
+      "name": "Sample Name Here"
+    },
+    {
+      "id": 5,
+      "content": "Slide - 5, Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati saepe a et veritatis ullam eligendi, numquam laudantium dolor harum fugiat.",
+      "image": "/images/model.jpg",
+      "name": "Sample Name Here"
+    },
+    {
+      "id": 6,
+      "content": "Slide - 6, Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati saepe a et veritatis ullam eligendi, numquam laudantium dolor harum fugiat.",
+      "image": "/images/model.jpg",
+      "name": "Sample Name Here"
+    },
+    {
+      "id": 7,
+      "content": "Slide - 7, Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati saepe a et veritatis ullam eligendi, numquam laudantium dolor harum fugiat.",
+      "image": "/images/model.jpg",
+      "name": "Sample Name Here"
+    },
+    {
+      "id": 8,
+      "content": "Slide - 8, Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati saepe a et veritatis ullam eligendi, numquam laudantium dolor harum fugiat.",
+      "image": "/images/model.jpg",
+      "name": "Sample Name Here"
+    },
+    {
+      "id": 9,
+      "content": "Slide - 9, Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati saepe a et veritatis ullam eligendi, numquam laudantium dolor harum fugiat.",
+      "image": "/images/model.jpg",
+      "name": "Sample Name Here"
+    },
+    {
+      "id": 10,
+      "content": "Slide - 10, Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati saepe a et veritatis ullam eligendi, numquam laudantium dolor harum fugiat.",
+      "image": "/images/model.jpg",
+      "name": "Sample Name Here"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "image": "/images/product.png",
+      "name": "Sample Product",
+      "price": "100",
+      "link": "/"
+    },
+    {
+      "id": 2,
+      "image": "/images/product.png",
+      "name": "Sample Product",
+      "price": "100",
+      "link": "/"
+    },
+    {
+      "id": 3,
+      "image": "/images/product.png",
+      "name": "Sample Product",
+      "price": "100",
+      "link": "/"
+    },
+    {
+      "id": 4,
+      "image": "/images/product.png",
+      "name": "Sample Product",
+      "price": "100",
+      "link": "/"
+    },
+    {
+      "id": 5,
+      "image": "/images/product.png",
+      "name": "Sample Product",
+      "price": "100",
+      "link": "/"
+    },
+    {
+      "id": 6,
+      "image": "/images/product.png",
+      "name": "Sample Product",
+      "price": "100",
+      "link": "/"
+    },
+    {
+      "id": 7,
+      "image": "/images/product.png",
+      "name": "Sample Product",
+      "price": "100",
+      "link": "/"
+    },
+    {
+      "id": 8,
+      "image": "/images/product.png",
+      "name": "Sample Product",
+      "price": "100",
+      "link": "/"
+    },
+    {
+      "id": 9,
+      "image": "/images/product.png",
+      "name": "Sample Product",
+      "price": "100",
+      "link": "/"
+    },
+    {
+      "id": 10,
+      "image": "/images/product.png",
+      "name": "Sample Product",
+      "price": "100",
+      "link": "/"
+    },
+    {
+      "id": 11,
+      "image": "/images/product.png",
+      "name": "Sample Product",
+      "price": "100",
+      "link": "/"
+    },
+    {
+      "id": 12,
+      "image": "/images/product.png",
+      "name": "Sample Product",
+      "price": "100",
+      "link": "/"
+    }
+  ]
+}
