@@ -57,6 +57,11 @@ footer {
   box-shadow: rgba(0, 0, 0, 0.5) 0px 19px 38px, rgba(0, 0, 0, 0.5) 0px 15px 12px;
 }
 
+.sub-hero-content img {
+  opacity: 0.5;
+  width: 10%;
+}
+
 .sub-hero-content div {
   text-align: center;
   width: 60%;
