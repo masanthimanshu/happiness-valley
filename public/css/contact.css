@@ -1,0 +1,17 @@
+/* Section Two */
+
+.secTwo {
+    text-align: center;
+  }
+  
+  .secTwo hr {
+    border: 0;
+    border-top: 10px dotted rgba(0, 128, 128, 0.25);
+    width: 15%;
+    margin: auto;
+  }
+  
+  .secTwo img {
+    width: 50%;
+    opacity: 0.5;
+  }

@@ -1,0 +1,52 @@
+body {
+  text-align: center;
+}
+
+/* Section Two */
+
+.secTwo img {
+  opacity: 0.5;
+  width: 10%;
+}
+
+.secTwo div {
+  margin: auto;
+  width: 60%;
+}
+
+/* Section Three */
+
+.secThree .image-container img {
+  width: 80%;
+}
+
+.secThree .grid-container {
+  display: grid;
+  grid-template-columns: auto auto ;
+  gap: 2rem;
+  width: 60%;
+  margin: auto;
+}
+
+.secThree .grid-item img {
+    width: 10%;
+    opacity: 0.5;
+}
+
+/* Section Four */
+
+.secFour video {
+  width: 60%;
+}
+
+.secFour .inner-div {
+  width: 50%;
+  margin: auto;
+}
+
+.secFour hr {
+  border: 0;
+  border-top: 10px dotted rgba(0, 128, 128, 0.25);
+  width: 5%;
+  margin: auto;
+}

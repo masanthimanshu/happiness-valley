@@ -2,7 +2,6 @@
   "title": "Courses",
   "css": "/css/courses.css",
   "hero": {
-      "heading" : "Courses",
-      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam, unde mollitia."
+      "heading" : "Courses"
     }
 }

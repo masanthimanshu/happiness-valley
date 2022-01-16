@@ -48,12 +48,12 @@ footer {
 
 .subHero {
   height: 80vh;
-  background-image: url("../images/pageOne1.png");
+  background-image: url("../images/subHero-image.jpg");
   background-position: center;
   background-size: cover;
   background-color: rgba(0, 0, 0, 0.6);
   background-blend-mode: overlay;
-  border-radius: 0 0 25% 25%;
+  border-radius: 0 0 250px 0;
   box-shadow: rgba(0, 0, 0, 0.5) 0px 19px 38px, rgba(0, 0, 0, 0.5) 0px 15px 12px;
 }
 

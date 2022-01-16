@@ -89,6 +89,10 @@
   margin: auto;
 }
 
+.secFour video {
+  width: 100%;
+}
+
 /* Section Five */
 
 .secFive {

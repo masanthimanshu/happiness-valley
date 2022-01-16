@@ -2,7 +2,6 @@
   "title": "About Us",
   "css": "/css/about.css",
   "hero": {
-      "heading" : "About Us",
-      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam, unde mollitia."
-    }
+    "heading": "About Us"
+  }
 }

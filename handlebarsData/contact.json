@@ -2,7 +2,6 @@
   "title": "Contact Us",
   "css": "/css/contact.css",
   "hero": {
-      "heading" : "Contact",
-      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam, unde mollitia."
+      "heading" : "Contact"
     }
 }
