@@ -1,6 +1,6 @@
 import express from "express";
 import { engine } from "express-handlebars";
-import fs from "fs";
+import fs from "node:fs";
 
 // Handlebars Objects Starts //
 

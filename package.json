@@ -1,15 +1,19 @@
 {
   "name": "happiness-valley",
   "version": "1.0.0",
-  "description": "",
+  "description": "Making world a happier place",
   "main": "app.js",
   "type": "module",
   "scripts": {
     "start": "node app",
     "dev": "nodemon app"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masanthimanshu/happiness-valley.git"
+  },
   "keywords": [],
-  "author": "",
+  "author": "Himanshu Masant",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2",
